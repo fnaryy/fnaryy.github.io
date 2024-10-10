@@ -1,0 +1,58 @@
+.logo{
+    font-size: 24px;
+    color: #244d4d;
+    font-weight: 900;
+}
+
+.link-header{
+    font-size: 16px;
+    color: #161616;
+    font-style: 'Regular';
+}
+
+.slogan{
+    color: white;
+    font-size: 56px;
+    font-weight: bold;
+}
+
+.help-disigen{
+    color: white;
+    font-size: 20px;
+    font-weight: 100;
+}
+
+.info-about-sponsor{
+    font-size: 32px;
+    color: #244d4d;
+    font-weight: 600;
+}
+
+
+.Us{
+    width: 407px;
+    font-size: 32px;
+    font-weight: 800;
+    color: #244d4d;
+}
+
+.all-info{
+    width: 420px;
+    font-size: 20px;
+    color: #383738;
+}
+
+.info-card{
+    width: 139px;
+    font-size: 24px;
+    font-weight: 400;
+    color: #244d4d;
+    padding-bottom: 15px;
+}
+
+.txt-card{
+    width: 307px;
+    font-size: 18px;
+    font-weight: 200;
+}
+

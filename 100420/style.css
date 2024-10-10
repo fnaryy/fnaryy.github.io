@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 43.27px;
+}
+.logo{
+    margin-right: 248px;
+}
+
+.link-box{
+    display: flex;
+    gap: 50px;
+}
+.navigation{
+    display: flex;
+    margin-left: 245px;
+    gap: 37px;
+}
+
+.first-section{
+    margin: 0 calc(min(100vw - 1440px, 80vw)/2);
+    position: relative;
+    display: flex;
+
+}
+
+.grenbox{
+    margin-top: 124px;
+    width:621px ;
+    height: 470px;
+    background-color: #154444;
+}
+
+.slogan{
+    margin-left: 120px;
+    padding-top: 74px;
+    width: 458px;
+}
+
+.help-disigen{
+    width: 333px;
+    margin-left: 120px;
+    padding-top: 30px;
+}
+
+.bg{
+    background-image: url(./img/Rectangle\ 2.png);
+    margin-top: 30px;
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 700px;
+    background-position: 348px 0;
+}
+
+.second-section{
+    margin: 0 calc(min(100vw - 1440px, 80vw)/2);
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.info-about-sponsor{
+    margin-top: 140px;
+}
+
+.logo-sonosr{
+    display: flex;
+    margin-top: 40px;
+    align-items: center;
+    justify-content: center;
+    gap:100px;
+}
+
+
+
+.tird-section{
+    margin: 0 calc(min(100vw - 1440px, 80vw)/2);
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 140px;
+}
+
+.card{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.img-card{
+    padding-left: 116px;
+}
+
+.img-txt{
+    margin-top: 40px;
+}
+
